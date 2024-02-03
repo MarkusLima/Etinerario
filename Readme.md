@@ -36,6 +36,8 @@ CREATE TABLE IF NOT EXISTS clients (
 
 - Como o projeto foi feito dentro de um container docker, 
   aconselho utilizar também para iniciar com mais agilidade. https://docs.docker.com/engine/install/ubuntu/
+  -- Execute docker compose -f "docker-compose.yaml" up -d --build 
+  --- --- Acesse com seu navegador localhost:8000
 
 - Caso não tenha interesse com docker, o projeto terá que ser rodado manualmente,
 OBS: Caso opte pode rodar sem o docker, haverá a necessidade de configura as chamadas do back end dentro do front end
