@@ -154,10 +154,10 @@ Explique como usar a API, incluindo endpoints principais, autenticação, etc.
 
 ## Preview do Projeto
 
-![App Screenshot](/previews/Captura de tela 2024-02-03 104514.png)
-![App Screenshot](/previews/Captura de tela 2024-02-03 1045561.png)
-![App Screenshot](/previews/Captura de tela 2024-02-03 1046412.png)
-![App Screenshot](/previews/Captura de tela 2024-02-03 1047131.png)
+![App Screenshot](/previews/Captura%20de%20tela%202024-02-03%20104514.png)
+![App Screenshot](/previews/Captura%20de%20tela%202024-02-03%201045561.png)
+![App Screenshot](/previews/Captura%20de%20tela%202024-02-03%201046412.png)
+![App Screenshot](/previews/Captura%20de%20tela%202024-02-03%201047131.png)
 
 ## Rotas do Front end
 
